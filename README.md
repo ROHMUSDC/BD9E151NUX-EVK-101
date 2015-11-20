@@ -16,8 +16,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-search/en/programmers-development-systems/evaluation-boards-dc-dc-ac-dc-off-line-smps/2622539?k=BD9E151 
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BD9E151NUX-EVK-101/?qs=%2fha2pyFadujo%2fpyAWZ8x3frJiW8l2qEn5vhPAXKPZ1SfoRy3amdZOThQHZTHBGJh
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD9E151NUX-TR/sample/0
 
 ----
 ### DISCLAIMER
